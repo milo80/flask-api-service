@@ -1,0 +1,23 @@
+# dependencies
+venv/
+
+# cache
+**/__pycache__
+
+# local settings
+# personal IDE
+.idea/
+
+# compiled 
+*.pyc
+*.py[cod]
+*$py.class
+
+# teporal files
+*.log
+
+# auto generated database directories
+migrationsa/
+
+# C extentions
+*.so
